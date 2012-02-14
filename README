@@ -1,0 +1,7 @@
+Echo with CGO
+=============
+
+It's a simple `echo` command demonstrating how to write C extensions for Go apps.
+You can build install it with:
+
+    $ go install github.com/nu7hatch/cgoecho 
